@@ -1,0 +1,2 @@
+# kanic
+just for study 
